@@ -1,5 +1,5 @@
 # Arcade-Racer
-A psuedo 3D arcade racing game that provides the illusion of true 3D graphics. Written in C++ and using SFML a tilemap of pixels is used to represent graphics with a pixel resolution of 160 * 100.
+A psuedo 3D arcade racing game that provides the illusion of true 3D graphics. Written in C++ and using SFML a tilemap of pixels is used to represent graphics.
 
 
 
